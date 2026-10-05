@@ -1,0 +1,6 @@
+# Fichiers temporaires SolidWorks
+~$*
+*.log
+# Fichiers de découpe propres à une imprimante
+*.gcode
+*.ctb
