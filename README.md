@@ -11,12 +11,6 @@ sous **SolidWorks** (châssis, coque, roues), avec des pièces fabriquées en **
   <img src="images/robot_cao.png" alt="Le robot sumo modélisé sous SolidWorks" width="640">
 </p>
 
-<p align="center">
-  <img src="images/roue_motrice.png" alt="Roue motrice" height="180">
-</p>
-
-> Les fichiers `.stl` s'affichent en 3D directement sur GitHub : cliquez dessus pour les faire tourner.
-
 ## Contenu
 
 ```
