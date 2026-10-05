@@ -13,10 +13,6 @@ sous **SolidWorks** (châssis, coque, roues), avec des pièces fabriquées en **
 
 <p align="center">
   <img src="images/roue_motrice.png" alt="Roue motrice" height="180">
-  &nbsp;&nbsp;
-  <img src="images/fixation_tube.png" alt="Fixation" height="180">
-  &nbsp;&nbsp;
-  <img src="images/chassis.png" alt="Châssis de la première version" height="180">
 </p>
 
 > Les fichiers `.stl` s'affichent en 3D directement sur GitHub : cliquez dessus pour les faire tourner.
@@ -30,7 +26,7 @@ cao/
 premiere_version/    première version du robot (2022) : châssis, boîtes moteurs, toit, roues
 code/
   capteur_ultrason/  programme Arduino du capteur à ultrasons HC-SR04
-images/              aperçus des pièces
+images/              captures et aperçus des pièces
 ```
 
 ### Version finale (2023) — `cao/solidworks/`
